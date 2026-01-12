@@ -6,18 +6,20 @@ A full-stack application developed to monitor simulated organ-on-a-chip paramete
 ## Technologies
 - Java, Spring Boot  
 - MySQL  
-- HTML, CSS, JavaScript  
+- React.js  
 - GitHub  
 
 ## Features
 - Simulated sensor data generation  
 - REST API-based backend  
 - MySQL database integration  
-- Web-based data display  
-
+- Web-based data display
+- 
+## Source code
+ https://drive.google.com/file/d/1OVYCmopL9NtPm9Bxf7UB-YO8cEsRTkzg/view?usp=drivesdk
+ 
 ## How to Run
-1. Clone the repository  
-   git clone https://github.com/jeyalakshmial05-beep/organ-on-a-chip-monitoring-system.git  
+1. Download and Extract the project:Download the zip file from the link above and extract it 
 2. Configure MySQL in `application.properties`  
 3. Run the Spring Boot application  
 4. Open frontend files in a browser  
